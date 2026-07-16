@@ -4,12 +4,12 @@ Cybersecurity Analyst | Hands-on threat Hunter & SOC Practitioner
 ---
 
 ## 🛡️ TryHackMe Professional Statistics
-*Live data manually logged from my continuous platform learning track.*
-## 🛡️ TryHackMe Statistics
+
+
 <a href="(https://tryhackme.com/p/KamalVenkatesh?tab=badges)" target="_blank">
   <img src="https://vercel.app" alt="TryHackMe Badge" />
 </a>
-
+*Live data manually logged from my continuous platform learning track.*
 *   🏆 **Global Platform Rank:** #22,208 (Top 1%)
 *   🔥 **Continuous Hacking Streak:** 234 Days
 *   🟢 **Total Practical Labs Resolved:** 206 Rooms Completed

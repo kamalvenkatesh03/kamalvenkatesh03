@@ -3,7 +3,7 @@ Cybersecurity Enthusiast | Hands-on Threat Hunter & SOC Analyst Lab Practitioner
 
 ## 🛡️ TryHackMe Statistics
 <a href="https://tryhackme.com/p/KamalVenkatesh" target="_blank">
-  <img src="https://tryhackme.com/p/KamalVenkatesh?tab=badges" alt="TryHackMe Badge" />
+  <img src="amazonaws.com/tryhackme.com/p/KamalVenkatesh" alt="TryHackMe Badge" />
 </a>
 
 ---
